@@ -8,7 +8,6 @@
 * [B. Мерчант](sho-take-merchant/README.md)
   * [1. Створення Мерчанту](sho-take-merchant/4.-stvorennya-merchantu.md)
   * [2. Налаштування платіжного сервісу](sho-take-merchant/2.-nalashtuvannya-platizhnogo-servisu.md)
-  * [3. Параметри платежу](sho-take-merchant/3.-parametri-platezhu.md)
 * [С. Ролі та права](untitled/README.md)
   * [1. Налаштування Оператора](untitled/untitled.md)
   * [2. Налаштування Користувача](untitled/untitled-1.md)
