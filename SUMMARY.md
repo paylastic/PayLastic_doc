@@ -13,5 +13,5 @@
   * [2. Налаштування Користувача](untitled/untitled-1.md)
 * [D. Процес оплати](untitled-1.md)
 * [E. Статистика](statistika.md)
-* [F. Тарифи](tarifi.md)
+* [F.. Тарифи](tarifi.md)
 
