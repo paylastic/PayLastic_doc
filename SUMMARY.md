@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Що таке PayLastic?](README.md)
+* [What's the PayLastic?](README.md)
 * [Условия использования сервиса](usloviya-ispolzovaniya-servisa.md)
 * [Терминология](terminologiya.md)
 * [А. Роли и права](s.-roli-ta-prava/README.md)
