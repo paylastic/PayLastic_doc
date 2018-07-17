@@ -1,11 +1,10 @@
-# D. Процес оплати
+# D. Оплата
 
 {% hint style="warning" %}
-Станом на 20.06.2018 доступна активація тільки у месенджерах Viber та Telegram.  
-Сервіс на базі Facebook Messenger - у стадії розробки.
+По состоянию на 20.06.2018 доступна активация только в мессенджерах Viber и Telegram. Сервис на базе Facebook Messenger - в стадии разработки.
 {% endhint %}
 
-## Дії Оператора \(Продавця\)
+## Действия Оператора \(Продавца\)
 
 {% hint style="info" %}
 Ініціація оплати або формування платіжного інвойсу виконується Оператором за допомогою чатботу PayLasic у месенджері, у якому відбувалася [активація](https://paylastic.gitbook.io/paylastic-oshad/~/edit/drafts/-LFRiezl1UKquOR0SyTC/sho-take-merchant/untitled/untitled).
@@ -78,4 +77,6 @@
 ### У разі неуспішної операції
 
 ![](.gitbook/assets/image-27.png)
+
+
 
