@@ -13,7 +13,7 @@
 * [B. Мерчант](b.-merchant/README.md)
   * [1. Створення Мерчанту](b.-merchant/1.-stvorennya-merchantu.md)
   * [2. Налаштування платіжного сервісу](b.-merchant/2.-nalashtuvannya-platizhnogo-servisu.md)
-* [D. Как оплатить?](d.-proces-oplati.md)
+* [D. Процесс оплаты](d.-proces-oplati.md)
 * [E. Статистика](e.-statistika.md)
 * [F. Тарифи](f..-tarifi.md)
 
